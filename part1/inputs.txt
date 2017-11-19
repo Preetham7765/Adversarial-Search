@@ -1,0 +1,3 @@
+sudo python ./pichu.py w .NBQKBNRPPPPPPPP..R.............................pppppppprnbqkbnr 10
+sudo python ./pichu.py w RNB.KBNRPPPPPPPP..Q.............................pppppppprnbqkbnr 10
+sudo python ./pichu.py b ........p........................................ppppppprnbqkbnr 10
